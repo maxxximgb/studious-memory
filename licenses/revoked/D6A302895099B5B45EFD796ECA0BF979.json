@@ -1,0 +1,8 @@
+{
+  "schema_version": 2,
+  "token": "D6A302895099B5B45EFD796ECA0BF979",
+  "hwid": "E79D5A00F772AB268F1BFF6CB2A556D8",
+  "owner_name": "maximg",
+  "revoked_at_unix": 1772363826,
+  "reason": "revoked via keygen -d"
+}
